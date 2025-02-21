@@ -60,7 +60,7 @@ Results:
 
 ### Team Members
 
-|Name     |  Github   | 
+|Linkedin     |  Github   | 
 |---------|-----------------|
 |[Nikitha Chandana](https://www.linkedin.com/in/nikitha-chandana/)|  [Nikitha Chandana](https://github.com/NikithaChandana)|
 
